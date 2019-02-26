@@ -1,4 +1,4 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C "start_jupyter -A -T @tool tool4ise.ipynb" -t tool4ise \
+/usr/bin/invoke_app "$@" -C "start_jupyter -A -T @tool iu399sp19p017.ipynb" -t iu399sp19p017 \
                          -u anaconda3-5.1
